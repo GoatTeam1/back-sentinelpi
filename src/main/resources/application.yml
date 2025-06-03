@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: sentinelpi
+    
+server:
+  port: 8081
