@@ -1,6 +1,9 @@
 spring:
   application:
     name: sentinelpi
+  output:
+    ansi:
+      enabled: always
     
 server:
   port: 8081
